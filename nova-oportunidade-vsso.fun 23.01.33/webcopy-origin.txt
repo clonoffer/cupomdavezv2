@@ -1,0 +1,431 @@
+Uri: https://cdn.jsdelivr.net/npm/disable-devtool
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\npm\disable-devtool-7
+Content Type: application/javascript
+
+Uri: https://nova-oportunidade-vsso.fun/p10/
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\index.htm
+Content Type: text/html
+
+Uri: https://nova-oportunidade-vsso.fun/p10/css/1c7a3d2ee9759dc256d915300855c494.css
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\css\1c7a3d2ee9759dc256d915300855c494.css
+Content Type: text/css
+
+Uri: https://nova-oportunidade-vsso.fun/p10/css/5921624bf5bbe4c8c091ef09226fa76f.css
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\css\5921624bf5bbe4c8c091ef09226fa76f.css
+Content Type: text/css
+
+Uri: https://nova-oportunidade-vsso.fun/p10/css/animated.css
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\css\animated.css
+Content Type: text/css
+
+Uri: https://nova-oportunidade-vsso.fun/p10/css/ba9cbbe9240a489628be8eb27c56db8a.css
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\css\ba9cbbe9240a489628be8eb27c56db8a.css
+Content Type: text/css
+
+Uri: https://nova-oportunidade-vsso.fun/p10/css/style.css
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\css\style.css
+Content Type: text/css
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDAvHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDAvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDBIG-em.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDBIG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDBxG-em.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDBxG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCdHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCdHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHeem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDDxHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDAvHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDAvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBIG-em.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBIG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBxG-em.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBxG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCdHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCdHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHeem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDDxHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDAvHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDAvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBIG-em.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBIG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBxG-em.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBxG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCdHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCdHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHeem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDDxHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDAvHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDAvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBIG-em.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBIG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBxG-em.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBxG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCdHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCdHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHeem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDDxHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDAvHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDAvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBIG-em.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBIG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBxG-em.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBxG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCdHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCdHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHeem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDDxHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDAvHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDAvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDBIG-em.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDBIG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDBxG-em.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDBxG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCdHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCdHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHeem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDDxHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDAvHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDAvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBIG-em.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBIG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBxG-em.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBxG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCdHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCdHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHeem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDDxHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDAvHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDAvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBIG-em.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBIG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBxG-em.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBxG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCdHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCdHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHeem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDDxHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDAvHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDAvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBIG-em.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBIG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBxG-em.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBxG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCdHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCdHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHeem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDDxHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDAvHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDAvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBIG-em.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBIG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBxG-em.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBxG-em.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCdHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCdHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHeem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDDxHOem.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/Poppins-Bold.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\Poppins-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/Poppins-SemiBold.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\Poppins-SemiBold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/Radian-Regular.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\Radian-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/RecoletaAlt-Black.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\RecoletaAlt-Black.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/RecoletaAlt-Bold.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\RecoletaAlt-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/RecoletaAlt-Medium.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\RecoletaAlt-Medium.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/fonts/RecoletaAlt-Regular.ttf
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\fonts\RecoletaAlt-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nova-oportunidade-vsso.fun/p10/images/erro.png
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\images\erro.png
+Content Type: image/png
+
+Uri: https://nova-oportunidade-vsso.fun/p10/images/faveicon.png
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\images\faveicon.png
+Content Type: image/png
+
+Uri: https://nova-oportunidade-vsso.fun/p10/js/funcoes.js
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\js\funcoes.js
+Content Type: application/x-javascript
+
+Uri: https://nova-oportunidade-vsso.fun/p10/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p10\js\jquery.min.js
+Content Type: application/x-javascript
+
+ Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p9\images\62.png
+Content Type: image/png
+
+Uri: https://nova-oportunidade-vsso.fun/p9/images/63.png
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p9\images\63.png
+Content Type: image/png
+
+Uri: https://nova-oportunidade-vsso.fun/p9/images/64.png
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p9\images\64.png
+Content Type: image/png
+
+Uri: https://nova-oportunidade-vsso.fun/p9/images/67.png
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p9\images\67.png
+Content Type: image/png
+
+Uri: https://nova-oportunidade-vsso.fun/p9/images/75.png
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p9\images\75.png
+Content Type: image/png
+
+Uri: https://nova-oportunidade-vsso.fun/p9/images/78.png
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p9\images\78.png
+Content Type: image/png
+
+Uri: https://nova-oportunidade-vsso.fun/p9/images/81.png
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p9\images\81.png
+Content Type: image/png
+
+Uri: https://nova-oportunidade-vsso.fun/p9/images/faveicon.png
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p9\images\faveicon.png
+Content Type: image/png
+
+Uri: https://nova-oportunidade-vsso.fun/p9/images/logo2.png
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p9\images\logo2.png
+Content Type: image/png
+
+Uri: https://nova-oportunidade-vsso.fun/p9/images/ok.png
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p9\images\ok.png
+Content Type: image/png
+
+Uri: https://nova-oportunidade-vsso.fun/p9/js/funcoes.js
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p9\js\funcoes.js
+Content Type: application/x-javascript
+
+Uri: https://nova-oportunidade-vsso.fun/p9/js/jquery.mask.js
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p9\js\jquery.mask.js
+Content Type: application/x-javascript
+
+Uri: https://nova-oportunidade-vsso.fun/p9/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p9\js\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://nova-oportunidade-vsso.fun/p9/js/slider.js
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p9\js\slider.js
+Content Type: application/x-javascript
+
+Uri: https://nova-oportunidade-vsso.fun/p9/js/validacaoCodigoBarras.js
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p9\js\validacaoCodigoBarras.js
+Content Type: application/x-javascript
+
+va-oportunidade-vsso.fun/p6/js/lottie-player.js
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p6\js\lottie-player.js
+Content Type: application/x-javascript
+
+Uri: https://nova-oportunidade-vsso.fun/p6/js/script.js
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p6\js\script.js
+Content Type: application/x-javascript
+
+Uri: https://nova-oportunidade-vsso.fun/p6/js/scripts.js
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\p6\js\scripts.js
+Content Type: application/x-javascript
+
+Uri: https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs
+File Name: C:\Downloaded Web Sites\nova-oportunidade-vsso.fun\@dotlottie\player-component@2.7.12\dist\dotlottie-player.mjs
+Content Type: application/javascript
+
